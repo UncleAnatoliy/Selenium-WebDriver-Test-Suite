@@ -1,0 +1,12 @@
+Saturday  | 29/03/2025 | 00:33:05 | 🟢"Add To Cart Test" execution started
+Saturday  | 29/03/2025 | 00:33:12 | Entered valid User name
+Saturday  | 29/03/2025 | 00:33:12 | Entered valid Password
+Saturday  | 29/03/2025 | 00:33:13 | Clicked on Login button
+Saturday  | 29/03/2025 | 00:33:13 | Inventory page is present
+Saturday  | 29/03/2025 | 00:33:13 | Add to cart: "Sauce Labs Backpack"
+Saturday  | 29/03/2025 | 00:33:14 | Add to cart: "Sauce Labs Bike Light"
+Saturday  | 29/03/2025 | 00:33:14 | Page Cart is ppresent(taken screenshot)
+Saturday  | 29/03/2025 | 00:33:14 | Finded Sauce Labs Backpack in cart 
+Saturday  | 29/03/2025 | 00:33:14 | Finded Sauce Labs Bike Light in cart 
+Saturday  | 29/03/2025 | 00:33:14 | Taken screenshot
+Saturday  | 29/03/2025 | 00:33:14 | ✅ Test "Add To Cart Test" passed successfully!

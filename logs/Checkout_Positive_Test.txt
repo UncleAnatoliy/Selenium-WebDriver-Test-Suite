@@ -1,0 +1,17 @@
+🟢 Test execution started
+// Running: Checkout Positive Test //
+Entered valid User name
+Entered valid Password
+Clicked on Login button
+Inventory page is present
+Add to cart: "Sauce Labs Backpack"
+Add to cart: "Sauce Labs Bike Light"
+Page Cart is present(taken screenshot)
+Moved to the first step of the checkout process(taken screenshot)
+Entered First Name: FirstName
+Entered Last Name: LastName
+Entered Postal Code: 123456
+Clicked continue button
+Page "Checkout Overview" opened(taken screenshot)
+Checkout completed(taken screenshot)
+✅ Test "Checkout Positive Test" passed successfully!

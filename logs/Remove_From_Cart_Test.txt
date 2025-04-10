@@ -1,0 +1,17 @@
+🟢 Test execution started
+// Running: Remove From Cart Test //
+Entered valid User name
+Entered valid Password
+Clicked on Login button
+Inventory page is present
+Add to cart: "Sauce Labs Backpack"
+Add to cart: "Sauce Labs Bike Light"
+Page Cart is ppresent(taken screenshot)
+Finded Sauce Labs Backpack in cart 
+Finded Sauce Labs Bike Light in cart 
+Sauce Labs Backpack removed from cart
+Sauce Labs Bike Light removed from cart
+Moved to Main Page
+Sauce Labs Bike Light removed from cart, product card has an Add to cart button
+Sauce Labs Backpack removed from cart, product card has an Add to cart button
+✅ Test "Remove From Cart Test" passed successfully!

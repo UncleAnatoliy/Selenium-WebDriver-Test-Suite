@@ -1,0 +1,16 @@
+Saturday  | 29/03/2025 | 00:30:06 | 🟢"Remove From Cart Test" execution started
+Saturday  | 29/03/2025 | 00:30:11 | Entered valid User name
+Saturday  | 29/03/2025 | 00:30:11 | Entered valid Password
+Saturday  | 29/03/2025 | 00:30:11 | Clicked on Login button
+Saturday  | 29/03/2025 | 00:30:12 | Inventory page is present
+Saturday  | 29/03/2025 | 00:30:12 | Add to cart: "Sauce Labs Backpack"
+Saturday  | 29/03/2025 | 00:30:12 | Add to cart: "Sauce Labs Bike Light"
+Saturday  | 29/03/2025 | 00:30:12 | Page Cart is ppresent(taken screenshot)
+Saturday  | 29/03/2025 | 00:30:12 | Finded Sauce Labs Backpack in cart 
+Saturday  | 29/03/2025 | 00:30:12 | Finded Sauce Labs Bike Light in cart 
+Saturday  | 29/03/2025 | 00:30:12 | Sauce Labs Backpack removed from cart
+Saturday  | 29/03/2025 | 00:30:13 | Sauce Labs Bike Light removed from cart
+Saturday  | 29/03/2025 | 00:30:13 | Moved to Main Page
+Saturday  | 29/03/2025 | 00:30:13 | Sauce Labs Bike Light removed from cart, product card has an Add to cart button
+Saturday  | 29/03/2025 | 00:30:13 | Sauce Labs Backpack removed from cart, product card has an Add to cart button
+Saturday  | 29/03/2025 | 00:30:14 | ✅ Test "Remove From Cart Test" passed successfully!

@@ -1,0 +1,20 @@
+🟢 Test execution started
+// Running: Failed Login Test //
+Entered invalid User name(invalid_user)
+Entered invalid Password(wrong_password)
+Clicked on Login button
+Error message is present
+✅ Test "Failed Login Test" passed successfully!
+// Running: Locked Out User Login Test //
+Entered Locked Out User Name(locked_out_user)
+Entered valid Password(secret_sauce)
+Clicked on Login button
+✅ Test "Locked Out User Login Test" passed successfully!
+// Running: Login Form Test //
+Entered valid User name
+Entered valid Password
+Clicked on Login button
+Inventory page is present
+Inventory page is present
+✅ Successfully logged in
+✅ Test "Login Form Test" passed successfully!

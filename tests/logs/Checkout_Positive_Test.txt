@@ -1,0 +1,16 @@
+Saturday  | 29/03/2025 | 00:30:15 | 🟢"Checkout Positive Test" execution started
+Saturday  | 29/03/2025 | 00:30:19 | Entered valid User name
+Saturday  | 29/03/2025 | 00:30:20 | Entered valid Password
+Saturday  | 29/03/2025 | 00:30:20 | Clicked on Login button
+Saturday  | 29/03/2025 | 00:30:20 | Inventory page is present
+Saturday  | 29/03/2025 | 00:30:20 | Add to cart: "Sauce Labs Backpack"
+Saturday  | 29/03/2025 | 00:30:20 | Add to cart: "Sauce Labs Bike Light"
+Saturday  | 29/03/2025 | 00:30:20 | Page Cart is present(taken screenshot)
+Saturday  | 29/03/2025 | 00:30:22 | Moved to the first step of the checkout process(taken screenshot)
+Saturday  | 29/03/2025 | 00:30:22 | Entered First Name: FirstName
+Saturday  | 29/03/2025 | 00:30:22 | Entered Last Name: LastName
+Saturday  | 29/03/2025 | 00:30:22 | Entered Postal Code: 123456
+Saturday  | 29/03/2025 | 00:30:23 | Clicked continue button
+Saturday  | 29/03/2025 | 00:30:23 | Page "Checkout Overview" opened(taken screenshot)
+Saturday  | 29/03/2025 | 00:30:23 | Checkout completed(taken screenshot)
+Saturday  | 29/03/2025 | 00:30:23 | ✅ Test "Checkout Positive Test" passed successfully!

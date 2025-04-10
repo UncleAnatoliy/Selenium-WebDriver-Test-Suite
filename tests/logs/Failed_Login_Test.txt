@@ -1,0 +1,6 @@
+Saturday  | 29/03/2025 | 00:29:53 | 🟢"Failed Login Test" execution started
+Saturday  | 29/03/2025 | 00:29:58 | Entered invalid User name(invalid_user)
+Saturday  | 29/03/2025 | 00:29:58 | Entered invalid Password(wrong_password)
+Saturday  | 29/03/2025 | 00:29:58 | Clicked on Login button
+Saturday  | 29/03/2025 | 00:29:59 | Error message is present
+Saturday  | 29/03/2025 | 00:29:59 | ✅ Test "Failed Login Test" passed successfully!
